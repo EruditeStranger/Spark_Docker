@@ -1,12 +1,4 @@
-# What
-Spark is a unified library for large-scale distributed data processing.
-
-## Why is it special?
-Spark supports batch processing, stream processing, machine learning, graph algorithms, 
-SQL, etc...
-
-Transformations occur in-memory, making it faster than MapReduce.
-
+# Spark
 
 ## High-Level Architecture
 
